@@ -1,0 +1,2 @@
+$boost,site=nirajagarwal.com
+$boost,site=domain2.com
